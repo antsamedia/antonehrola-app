@@ -1,0 +1,22 @@
+body.aft-default-mode .bottom-bar {
+    background-color: #af0000;
+}
+
+body.aft-default-mode .inner-suscribe input[type=submit],
+body.aft-default-mode #scroll-up,
+body.aft-default-mode .trending-posts-vertical .trending-no,
+body.aft-default-mode .aft-main-banner-section .aft-trending-latest-popular .nav-tabs>li.active,
+body.aft-default-mode .aft-main-banner-wrapper span.trending-no,
+body.aft-default-mode .read-img .min-read-post-comment,
+body.aft-default-mode .aft-home-icon {
+    background-color: #b80000;
+}
+
+body.aft-default-mode .read-img .min-read-post-comment:after{
+    border-top-color: #b80000;
+}
+
+
+bodybody.aft-default-mode  .sticky .read-title h4 a:before {
+    color: #b80000;
+}
