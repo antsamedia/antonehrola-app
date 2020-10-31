@@ -1,0 +1,4 @@
+from antsamedia.appengine.ext import vendor
+
+# Add any libraries installed in the "lib" folder.
+vendor.add('gae/lib')
